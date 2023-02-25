@@ -1,0 +1,21 @@
+NEJE N30820 classic 20W CW Laser Module
+
+Application: Paper cutting, Wood cutting(<5mm), Depth Engraving(<3mm), g-code drawing...
+
+Engraving material: wood, gray paper card, non-transparent plastic, leather, paint pcba, etc.( flat, opaque and can be burned black)
+
+Weight: 202g
+
+Input: 12V2A (about 20w)
+
+Output Optical Power: 5.5W
+
+PWM: 50KHz-20KHz / 3.3V-12V
+
+Temperature Sensor: yes
+
+Focus Range: 35mm
+
+Max Cutting Thickness: 5mm (Light diameter: 0.1mm-0.2mm)
+
+Minimum Focus Diameter: 0.03x0.02mm
